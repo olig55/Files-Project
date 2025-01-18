@@ -20,8 +20,4 @@ with open("example.txt", "a") as file:
 
 # 9)
 
-# 10)
-
-
-
-
+# 10) 
