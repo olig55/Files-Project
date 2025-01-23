@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1) Creating a new file in python
 
 # Here you find the class list
